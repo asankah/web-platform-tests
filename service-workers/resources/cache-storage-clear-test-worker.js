@@ -1,4 +1,4 @@
-importScripts('../../resources/testharness.js');
+importScripts('/resources/testharness.js');
 importScripts('worker-test-harness.js');
 
 var test_cache_list = ['clear-test-1', 'clear-test-2', 'clear-test-3'];

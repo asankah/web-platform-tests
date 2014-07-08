@@ -1,4 +1,4 @@
-importScripts('../../resources/testharness.js');
+importScripts('/resources/testharness.js');
 importScripts('worker-test-harness.js');
 
 promise_test(function(test)

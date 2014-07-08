@@ -1,4 +1,4 @@
-importScripts('../../resources/testharness.js');
+importScripts('/resources/testharness.js');
 importScripts('worker-test-harness.js');
 
 var test_cache_list = ['enum-1', 'enum-2', 'enum-3'];
